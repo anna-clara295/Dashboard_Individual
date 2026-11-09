@@ -1,0 +1,21 @@
+{
+  "quantidade_observacoes": 27,
+  "media": 7904482.851851852,
+  "mediana": 4164468.0,
+  "moda": null,
+  "q1": 2960765.0,
+  "q2": 4164468.0,
+  "q3": 9415421.5,
+  "iqr": 6454656.5,
+  "amplitude": 45343029.0,
+  "desvio_padrao_populacional": 9101447.638510762,
+  "minimo": 738772.0,
+  "maximo": 46081801.0,
+  "limite_inferior_outliers": -6721219.75,
+  "limite_superior_outliers": 19097406.25,
+  "outliers": [
+    46081801.0,
+    21393441.0
+  ],
+  "criterio_outlier": "Valores abaixo de Q1 - 1,5*IQR ou acima de Q3 + 1,5*IQR."
+}
