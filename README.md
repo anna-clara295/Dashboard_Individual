@@ -27,7 +27,7 @@ como se todos os pontos fossem censos.
 
 ## Instalação
 ```bash
-pip install pandas numpy openpyxl streamlit plotly
+pip install streamlit pandas numpy
 ```
 
 ## Executar ETL
@@ -38,7 +38,7 @@ python etl_estatisticas.py
 
 ## Executar dashboard
 ```bash
-streamlit run dashboard.py
+ python -m streamlit run dashboard.py
 ```
 
 ## Metodologia estatística
